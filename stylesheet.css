@@ -396,6 +396,9 @@ h3 {
   /* flex-direction: column; */
   display: block;
 }
+  .footer-container{
+    display: block;
+  }
 
 * {
   margin: 0;
